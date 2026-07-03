@@ -1,0 +1,6 @@
+{
+  "name": "Digital Wellbeing Dashboard",
+  "description": "An interactive dashboard that helps users maintain a healthy relationship with technology by encouraging balanced screen time, better mental well-being, and positive digital habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
